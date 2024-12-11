@@ -21,7 +21,7 @@ proptest = { version = "1.0", optional = true }
 quickcheck = "0.9"
 matrixcompare-mock = { path = "matrixcompare-mock", version="0.1" }
 proptest = "0.10"
-pretty_assertions = "0.6.1"
+pretty_assertions = "1.4"
 
 [package.metadata.docs.rs]
 # Make sure to build docs for `proptest-support` on `docs.rs`
